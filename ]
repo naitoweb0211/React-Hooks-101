@@ -16,8 +16,6 @@ const App=()=>{
 			title,
 			body
 		})
-	setTitle('')
-	setBody('')
   }
 
   console.log({state})
